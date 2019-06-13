@@ -13,6 +13,7 @@ Beschrijf hier kort jullie project
 Zet hier de links neer naar jullie documentatie.
 
 * [Onderzoek](https://docs.google.com/document/d/1Qlu1fZKQRdXmMBDJtam4hMrKcrBtlqUg7bsOkwp02PA/edit)
-* [Conclusie](https://docs.google.com/document/d/1Tuq3q1W7OueZtz5is8sOMu0iQx__UfUZoPDz0lOQUN8/edit)* [Ontwerp]()
+* [Conclusie](https://docs.google.com/document/d/1Tuq3q1W7OueZtz5is8sOMu0iQx__UfUZoPDz0lOQUN8/edit)
+* [Ontwerp]()
 * [Testrapportage]()
-* [Presentatie]()
+* [Presentatie](https://docs.google.com/presentation/d/1KfVP8_s7Y0EedspNJSmMy7mCQyjj7ayyAovwEoo84Eo/edit)
