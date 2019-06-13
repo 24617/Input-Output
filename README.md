@@ -7,7 +7,7 @@ Team #
 [Projectmanagment](https://trello.com/b/IoEvQWvh/input-output) <Trello scrumboard bijvoorbeeld>
 
 ## Ontwerp
-Beschrijf hier kort jullie project
+Ons project bestaat uit het onderzoeken color tracking libraries. Het kijken naar wat het beste is om te gebruiken voor onze game wat wij willen maken. Hiermee wouden wij dan een game maken die dan color tracking gebruikt. Het spel zou dan iets doen met beweging.
 
 ## Portfolio
 Zet hier de links neer naar jullie documentatie.
