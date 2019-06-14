@@ -21,7 +21,6 @@ Zet hier de links neer naar jullie documentatie.
 ## Game
 * [Game](http://24617.hosts.ma-cloud.nl/bewijzenmap/Input%26Output/Game_1/index.html)
 * [Game op Site](http://24617.hosts.ma-cloud.nl/bewijzenmap/Input%26Output/Index.html)
-(Camera wil soms niet werken)
 
 ## How to play (Omdat het nog in testfase zit)
 * K Spelen met keyboard pijltjes
