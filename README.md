@@ -17,5 +17,15 @@ Zet hier de links neer naar jullie documentatie.
 * [Ontwerp](https://docs.google.com/document/d/1wYHL2h1EBwWC64njSzsesfaInlMg3at1D3KrDHrUOGs/edit)
 * [Testrapportage](https://docs.google.com/document/d/13ktp2OYnj8KgAfVGUD6U_oznGmhMNC2NghVP3NSSIG4/edit)
 * [Presentatie](https://docs.google.com/presentation/d/1KfVP8_s7Y0EedspNJSmMy7mCQyjj7ayyAovwEoo84Eo/edit)
+
+## Game
 * [Game](http://24617.hosts.ma-cloud.nl/bewijzenmap/Input%26Output/Game_1/index.html)
 * [Game op Site](http://24617.hosts.ma-cloud.nl/bewijzenmap/Input%26Output/Index.html)
+
+## How to play (Omdat het nog in testfase zit)
+K Spelen met keyboard pijltjes
+M Spelen met de muis
+C Zet color detection aan met camera (Kleur is geel)
+R Stuurt de bal weer naar de start locatie
+S Laat de bal bewegen
+P Zet de bal op pauze
