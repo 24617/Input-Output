@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Input&Output: Trampoline - Erik Kooijman - GD2B</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="./node_modules/tf.min.js"></script>
+  </head>
+  <body>
+
+
+    <div class="video-frame">
+      <video class="video" id="video"></video>
+      <canvas class="canvas" id="canvas" width="1280"></canvas>
+      <div class="scoreboard" id="sb">
+        <!-- Scoreboard -->
+        <!-- <h1>SCORE: </h1>
+      </div>
+      <div id="score">
+        <h1>0</h1>
+      </div> -->
+    </div>
+
+    <!-- Minimal tracking code -->
+    <script src="../tracking.js-master/build/tracking-minYellow.js" charset="utf-8"></script>
+    <script src="../tracking.js-master/assets/dat.gui.min.js"></script>
+    <script src="../tracking.js-master/assets/color_camera_gui.js"></script>
+
+    <!-- Libraries -->
+    <script src="../lib/Point.js" charset="utf-8"></script>
+    <script src="../lib/Vector2d.js" charset="utf-8"></script>
+    <script src="../lib/LinearFunction.js" charset="utf-8"></script>
+
+    <!-- My script -->
+    <script src="EnableWebcam.js" charset="utf-8"></script>
+    <script src="ColorTracker.js" charset="utf-8"></script>
+
+    <!-- tracking.ColorTracker.registerColor("cyan") -->
+
+
+
+  </body>
+</html>

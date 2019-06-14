@@ -1,0 +1,49 @@
+body{
+  /* background-color: #FFFFFF; */
+  background-color: #292728;
+  height: 100%;
+}
+
+#canvas {
+  top: 10px;
+  left: 10px;
+  position: absolute;
+  border: 2px solid black;
+}
+
+#video {
+  /* display: block; */
+  top: 10px;
+  left: 68%;
+  position: absolute;
+  /* Mirror webcam */
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+}
+
+#sb {
+  left: 2%;
+  top: 2%;
+  position: absolute;
+}
+
+#score {
+  left: 10%;
+  top: 2%;
+  position: absolute;
+}
+
+h1 {
+  display: block;
+  margin: 0 auto;
+  color: white;
+  font: "Courier New";
+}
+
+.rect {
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  left: -1000px;
+  top: -1000px;
+}

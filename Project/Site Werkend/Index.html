@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="Style.css"></link>
+    <title>Input & Output - Game Screen</title>
+  </head>
+  <header id="header">
+    <p id="HeaderText">Color Tracking Games</p>
+
+  </header>
+  <body>
+
+    <script src="Script.js" charset="utf-8"> </script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+    <script src="Save.js" charset="utf-8"> </script>
+
+    <div class="backDivs">
+    <div class="fullDivs">
+    <div id="EmptyDif1"></div>
+    <div class="columns" id="FirstGame">
+      <div class="container" onmouseover="bigImg(this,1)" onmouseout="normalImg(this,1)">
+        <img style="cursor: pointer;" src="Images/Game1.png" alt="Image Logo" class="CoverImage">
+        <div class="overlay" style="cursor: pointer;">
+          <div class="text">Trampoline</div>
+        </div>
+      </div>
+      <p id="Text">Try to keep the ball up while moving the platform. Every time you keep the ball up you get one point. You got three lives.  </p>
+    </div>
+
+    <img src="Images/Line.png" alt="Image Line" class="BorderLine" id="FirstLine">
+
+    <div class="columns" id="SecondGame">
+      <div class="container" onmouseover="bigImg(this,2)" onmouseout="normalImg(this,2)">
+        <img style="cursor: pointer;" src="Images/ComingSoon.png" alt="Image Logo" class="OtherCoverImage">
+        <div class="otherOverlay" style="cursor: pointer;">
+          <div class="text">Hello World</div>
+        </div>
+      </div>
+      <p id="Text">   </p>
+    </div>
+
+    <img src="Images/Line.png" alt="Image Line" class="BorderLine" id="SecondLine">
+
+    <div class="columns" id="ThirdGame">
+      <div class="container" onmouseover="bigImg(this,3)" onmouseout="normalImg(this,3)">
+        <img style="cursor: pointer;" src="Images/ComingSoon.png" alt="Image Logo" class="OtherCoverImage">
+        <div class="otherOverlay" style="cursor: pointer;">
+          <div class="text">Hello World</div>
+        </div>
+      </div>
+      <p id="Text">   </p>
+
+    </div>
+    <div id="EmptyDif2"></div>
+  </div>
+</div>
+
+
+
+
+
+
+
+  </body>
+  <footer id="footer">
+
+  </footer>
+</html>

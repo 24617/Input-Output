@@ -1,0 +1,196 @@
+@font-face {
+  font-family: HeaderFont;
+  src: url(Fonts/bubbleboddy_neue/BubbleText.ttf);
+}
+
+#Text{
+  font-family: HeaderFont;
+  padding-top: 20px;
+  padding-left: 40px;
+  padding-right: 40px;
+  font-size: 20px;
+}
+
+html{
+  overflow-y: hidden;
+}
+
+body{
+  margin: 0px;
+  background-color: #d7d9dd;
+}
+
+.add{
+  margin : auto;
+  background-color: white;
+  font-family: HeaderFont;
+  border: none;
+  padding: 10px;
+  margin-top: 50px;
+  border-radius: 10px;
+  display: block;
+  font-size: 20px;
+}
+
+#header{
+  height: 100px;
+  background-color: #9dbef2;
+  border-bottom-color: white;
+  border-bottom-style: solid;
+  border-bottom-width: 5px;
+}
+
+#footer{
+  height: 50px;
+  background-color: #9dbef2;
+  border-top-color: white;
+  border-top-style: solid;
+  border-top-width: 5px;
+  position: absolute;
+  bottom: 0px;
+  width: 100%;
+}
+
+#HeaderText{
+  font-family: HeaderFont;
+  color: white;
+  margin-top: 0px;
+  padding-top: 5px;
+  padding-left: 20px;
+  font-size: 80px;
+}
+
+.columns{
+  width: 452px;
+
+}
+
+.BorderLine{
+  float: left;
+  margin-top: 75px;
+  margin-right: 20px;
+  margin-left: 20px;
+
+}
+
+.OtherCoverImage{
+  position: inherit;
+  display:block;
+  margin:auto;
+  margin-top: 50px;
+  width: 300px;
+  border-radius: 30px;
+  border-color: white;
+  border-style: solid;
+  border-width: 10px;
+  transition: 0.3s ease;
+}
+
+.CoverImage{
+  position: inherit;
+  display:block;
+  margin:auto;
+  margin-top: 50px;
+  width: 300px;
+  border-radius: 30px;
+  border-color: white;
+  border-style: solid;
+  border-width: 10px;
+  transition: 0.3s ease;
+}
+
+.container{
+  position: relative;
+  width: 300px;
+  display:block;
+  margin:auto;
+
+}
+
+.text{
+  font-family: HeaderFont;
+  padding-top: 10px;
+}
+
+
+.overlay{
+  transition: 0.3s ease;
+  opacity: 0;
+  position: absolute;
+  margin-top: -35px;
+  background-color: white;
+  width: 305px;
+  height: 30px;
+  text-align: center;
+  margin-left: 8px;
+  border-bottom-right-radius: 15px;
+  border-bottom-left-radius: 15px;
+}
+
+.otherOverlay{
+  transition: 0.3s ease;
+  opacity: 0;
+  position: absolute;
+  margin-top: -35px;
+  background-color: white;
+  width: 305px;
+  height: 30px;
+  text-align: center;
+  margin-left: 8px;
+  border-bottom-right-radius: 15px;
+  border-bottom-left-radius: 15px;
+}
+
+#FirstGame{
+  float:left;
+}
+
+#SecondGame{
+  float:left;
+}
+
+#ThirdGame{
+  float:left
+}
+
+#EmptyDif1{
+  width: 20px;
+  height:50px;
+  float:left;
+}
+
+#EmptyDif2{
+  width: 20px;
+  height:50px;
+  float:right;
+}
+
+.FrameGame{
+  width: 800px;
+  height: 537.6px;
+  margin-top: 10px;
+  margin-left: 10px;
+  border-color: white;
+  border-radius: 10px;
+  border-width: 20px;
+  border-style: solid;
+}
+
+
+#video{
+  display : block;
+  margin : auto;
+  border-color: white;
+  border-radius: 10px;
+  border-width: 20px;
+  border-style: solid;
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+}
+
+.VideoPlace{
+  margin-top: 10px;
+  float: right;
+  height: 500px;
+  width: 675px;
+}

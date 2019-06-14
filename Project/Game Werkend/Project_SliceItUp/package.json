@@ -1,0 +1,25 @@
+{
+  "name": "project_inputoutput",
+  "version": "1.0.0",
+  "description": "Jelle was here",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Doppeltje/AMP.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Doppeltje/AMP/issues"
+  },
+  "homepage": "https://github.com/Doppeltje/AMP#readme",
+  "dependencies": {
+    "handtrackjs": "0.0.13"
+  }
+}
