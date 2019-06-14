@@ -23,9 +23,9 @@ Zet hier de links neer naar jullie documentatie.
 * [Game op Site](http://24617.hosts.ma-cloud.nl/bewijzenmap/Input%26Output/Index.html)
 
 ## How to play (Omdat het nog in testfase zit)
-K Spelen met keyboard pijltjes
-M Spelen met de muis
-C Zet color detection aan met camera (Kleur is geel)
-R Stuurt de bal weer naar de start locatie
-S Laat de bal bewegen
-P Zet de bal op pauze
+* K Spelen met keyboard pijltjes
+* M Spelen met de muis
+* C Zet color detection aan met camera (Kleur is geel)
+* R Stuurt de bal weer naar de start locatie
+* S Laat de bal bewegen
+* P Zet de bal op pauze
