@@ -13,6 +13,7 @@ Ons project bestaat uit het onderzoeken color tracking libraries. Het kijken naa
 Zet hier de links neer naar jullie documentatie.
 
 * [Onderzoek](https://docs.google.com/document/d/1Qlu1fZKQRdXmMBDJtam4hMrKcrBtlqUg7bsOkwp02PA/edit)
+* [Documentatie](https://docs.google.com/document/d/1VVPJGHIZcXCV3ycSQ4RP9nQuw9GVYyChWWCTdlezSRU/edit)
 * [Conclusie](https://docs.google.com/document/d/1Tuq3q1W7OueZtz5is8sOMu0iQx__UfUZoPDz0lOQUN8/edit)
 * [Ontwerp](https://docs.google.com/document/d/1wYHL2h1EBwWC64njSzsesfaInlMg3at1D3KrDHrUOGs/edit)
 * [Testrapportage](https://docs.google.com/document/d/13ktp2OYnj8KgAfVGUD6U_oznGmhMNC2NghVP3NSSIG4/edit)
